@@ -61,7 +61,7 @@ Note: Before inserting an image for the logo you need to use the following proce
 ![ex2-9](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/454ff962-a7a0-41c3-9cd0-0b3e638f117b)
 
  
-### Step 10: A new app will be created and displayed
+### Step 10: A new app will be created and displayed.
 
 
 
